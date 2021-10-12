@@ -1,0 +1,57 @@
+# JavaScript Básico
+
+### Links para Estudo
+
+[O que é Currying?](https://rodrigorgs.github.io/aulas/mata56/aula14-currying)
+
+[O que é Hoisting?](https://developer.mozilla.org/pt-BR/docs/Glossary/Hoisting)
+
+[O básico sobre Objects](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Basics)
+
+[Comandos para Objects](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object)
+
+[Entendendo Arrow Function](https://hcode.com.br/blog/entendendo-arrow-functions-de-uma-vez-por-todas)
+
+[Utilizando Arrow Function](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+[Spread](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+[Usando Switch](https://www.devmedia.com.br/javascript-switch/39761)
+
+[Design Patterns](https://medium.com/@pedrofullstack/um-guia-para-design-patterns-em-javascript-171ca3c24dd6)
+
+#### [Trabalhando com Arrays](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
++ [Array .push](https://www.w3schools.com/jsref/jsref_push.asp)
+
++ [Array.pop](https://www.w3schools.com/jsref/jsref_pop.asp)
+
++ [Array.sifht](https://www.w3schools.com/jsref/jsref_shift.asp)
+
++ [Array.unshift](https://www.w3schools.com/jsref/jsref_unshift.asp)
+
++ [Array.contact](https://www.w3schools.com/jsref/jsref_concat_array.asp)
+
++ [Array.slice](https://www.w3schools.com/jsref/jsref_slice_array.asp)
+
++ [Array.splice](https://www.w3schools.com/Jsref/jsref_splice.asp)
+
+#### [Iteração em Arrays](https://gist.github.com/felisio/4eb4d427951b26e3d1616a411e93df87)
+
++ [ForEach](https://www.w3schools.com/jsref/jsref_foreach.asp)
++ [Map](https://www.w3schools.com/jsref/jsref_map.asp)
++ [Filter](https://www.w3schools.com/jsref/jsref_filter.asp)
++ [Reduce](https://www.w3schools.com/jsref/jsref_reduce.asp)
++ [Some](https://www.w3schools.com/JSREF/jsref_some.asp)
++ [Every](https://www.w3schools.com/jsref/jsref_every.asp)
++ [Find](https://www.w3schools.com/jsref/jsref_find.asp)
++ [FindIndex](https://www.w3schools.com/Jsref/jsref_findindex.asp)
++ [Sort](https://www.w3schools.com/js/js_array_sort.asp)
++ [Reverse](https://www.w3schools.com/js/js_array_sort.asp)
++ [Join](https://www.w3schools.com/jsref/jsref_join.asp)
++ 
+
+
+
+
+
